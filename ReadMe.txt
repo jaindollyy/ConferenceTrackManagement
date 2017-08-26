@@ -11,7 +11,7 @@ All talk lengths are either in minutes (not hours) or lightning (5 minutes).
 Presenters will be very punctual; there needs to be no gap between sessions.
  
  
-Test input:
+Input:
 Writing Fast Tests Against Enterprise Rails 60min
 Overdoing it in Python 45min
 Lua for the Masses 30min
@@ -32,7 +32,7 @@ Ruby on Rails Legacy App Maintenance 60min
 A World Without HackerNews 30min
 User Interface CSS in Rails Apps 30min
  
-Test output: 
+Output: 
 Track 1:
 09:00AM Writing Fast Tests Against Enterprise Rails 60min
 10:00AM Overdoing it in Python 45min
