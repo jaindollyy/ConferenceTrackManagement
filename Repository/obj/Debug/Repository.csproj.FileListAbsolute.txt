@@ -1,0 +1,5 @@
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Repository\bin\Debug\Repository.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Repository\bin\Debug\Repository.pdb
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Repository\obj\Debug\Repository.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Repository\obj\Debug\Repository.pdb

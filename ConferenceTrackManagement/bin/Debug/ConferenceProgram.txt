@@ -1,0 +1,40 @@
+Conference Track Program:
+Track 1:
+Morning Session:
+09:00AM Ruby on Rails Legacy App Maintenance 
+10:00AM Ruby on Rails: Why We Should Move On 
+11:00AM Rails Magic 
+12:00PM Lunch
+Evening Session:
+01:00PM Communicating Over Distance 
+02:00PM Writing Fast Tests Against Enterprise Rails 
+03:00PM Clojure Ate Scala (on my project) 
+03:45PM Pair Programming vs Noise 
+04:30PM User Interface CSS in Rails Apps 
+05:00PM Networking Event
+Track 2:
+Morning Session:
+09:00AM Accounting-Driven Development 
+09:45AM Common Ruby Errors 
+10:30AM Ruby Errors from Mismatched Gem Versions 
+11:15AM Overdoing it in Python 
+12:00PM Lunch
+Evening Session:
+01:00PM A World Without HackerNews 
+01:30PM Ruby vs. Clojure for Back-End Development 
+02:00PM Programming in the Boondocks of Seattle 
+02:30PM Sit Down and Write 
+03:00PM Woah 
+03:30PM Lua for the Masses 
+04:00PM Rails for Python Developers lightning
+04:05PM Networking Event
+Track 3:
+Morning Session:
+12:00PM Lunch
+Evening Session:
+04:00PM Networking Event
+Track 4:
+Morning Session:
+12:00PM Lunch
+Evening Session:
+04:00PM Networking Event

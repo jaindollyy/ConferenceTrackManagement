@@ -1,0 +1,16 @@
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.csprojResolveAssemblyReference.cache
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.exe.config
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.exe
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.pdb
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\Repository.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\Repository.pdb
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.exe
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.pdb
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.csprojResolveAssemblyReference.cache
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.exe
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\obj\Debug\ConferenceTrackManagement.pdb
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.exe.config
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.exe
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\ConferenceTrackManagement.pdb
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\Repository.dll
+C:\Projects\ConferenceTrackManagement\ConferenceTrackManagement\bin\Debug\Repository.pdb

@@ -1,0 +1,34 @@
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Tests.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Tests.pdb
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\ConferenceTrackManagement.exe
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Repository.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\ConferenceTrackManagement.pdb
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\ConferenceTrackManagement.exe.config
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\bin\Debug\Repository.pdb
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\obj\Debug\Tests.dll
+c:\users\dolly\documents\visual studio 2017\Projects\ConferenceTrackManagement\Tests\obj\Debug\Tests.pdb
+C:\Projects\ConferenceTrackManagement\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\ConferenceTrackManagement\Tests\obj\Debug\Tests.dll
+C:\Projects\ConferenceTrackManagement\Tests\obj\Debug\Tests.pdb
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Tests.dll
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Tests.pdb
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\ConferenceTrackManagement.exe
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Repository.dll
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\ConferenceTrackManagement.pdb
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\ConferenceTrackManagement.exe.config
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Repository.pdb
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\ConferenceTrackManagement\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
